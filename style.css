@@ -10,7 +10,7 @@ h2, h3, h4, p, a {
     color:#fff;
     text-shadow: none !important;
 }
-.carousel-caption h1 {
+.carousel-caption h1    {
     font-weight: bold;
 }
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.active>a,
